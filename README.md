@@ -31,8 +31,7 @@ Brain tumors pose a significant health risk, and early detection is crucial for 
 ## Contributions
 Contributions to the project are welcome! Please follow the guidelines outlined in the CONTRIBUTING.md file.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
 
 ## Contact
 For any inquiries or feedback, feel free to reach out to the project team or the instructor mentioned in the documentation.
